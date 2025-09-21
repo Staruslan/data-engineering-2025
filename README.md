@@ -1,4 +1,4 @@
-**Data Engineering 2025  (bold)**Data Engineering 2025 
+**Data Engineering 2025**
 ____
  :white_check_mark: Ссылка на датасет https://drive.google.com/drive/folders/17CqpL_vUcgqztIK5kGpLKhGqC8Ex8KJ-?usp=drive_link
  ____
