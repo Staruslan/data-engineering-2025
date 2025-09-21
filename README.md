@@ -1,4 +1,6 @@
 # **Data Engineering 2025**
+Студент ПИШ ИТМО: Комаров Руслан
+
 (Запись передвижения лабораторной крысы)
 
  :white_check_mark: (ДЗ1) Ссылка на датасет: https://drive.google.com/drive/folders/17CqpL_vUcgqztIK5kGpLKhGqC8Ex8KJ-?usp=drive_link 
