@@ -1,5 +1,6 @@
 # **Data Engineering 2025**
 (Запись передвижения лабораторной крысы)
+
  :white_check_mark: (ДЗ1) Ссылка на датасет https://drive.google.com/drive/folders/17CqpL_vUcgqztIK5kGpLKhGqC8Ex8KJ-?usp=drive_link 
  ____
 :white_check_mark: (ДЗ2) - Скрипт [data_loader.py](https://github.com/Staruslan/data-engineering-2025/blob/main/data_loader.py) на Python для чтения датасета.
