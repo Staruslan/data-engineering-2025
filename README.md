@@ -15,5 +15,7 @@
 Вывод первых 10 строк из наших данных.
 
 <img width="1915" height="660" alt="DL_Result" src="https://github.com/user-attachments/assets/c13ed3d4-ef54-48a0-abe5-a72f1c5fa44d" />
+
 ____
+
 :black_square_button: (ДЗ3)
