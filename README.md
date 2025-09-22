@@ -5,7 +5,7 @@
 **Преподаватель:** Пандаков Виктор Викторович
  ____
 
- :white_check_mark: **(ДЗ1)** 
+ :white_check_mark: **(ДЗ №1)** 
  
   - Данные для исследования, запись передвижения биологического объекта (лабораторная мышь) приведена на рис.1.
 
@@ -15,7 +15,7 @@
    
 Рисунок 1 — Лабораторная мышь при проведении теста
  ____
-:white_check_mark: **(ДЗ2)**
+:white_check_mark: **(ДЗ №2)**
 
 - Скрипт [data_loader.py](https://github.com/Staruslan/data-engineering-2025/blob/main/data_loader.py) на Python для чтения датасета.
 Данный скрипт работает в связке [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)+[poetry](https://python-poetry.org/docs/basic-usage/). 
@@ -32,7 +32,7 @@
 
 ____
 
-:black_square_button: **(ДЗ3)**
+:black_square_button: **(ДЗ №3)**
 
 - Приведение типов. В таблице 1 приведены основные типы.
   
@@ -56,4 +56,4 @@ Pandas dtype mapping
  **Apache Parquet** — формат хранения данных с открытым исходным кодом, ориентированный на столбцы. В отличие от строковых форматов (например, CSV или JSON), где данные хранятся построчно, Parquet организует их колонками.
 ____
 
-:black_square_button: **(ДЗ4)**
+:black_square_button: **(ДЗ №4)**
