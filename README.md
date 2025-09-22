@@ -37,7 +37,7 @@ ____
   
 - Сохранить датасет в формате (Parquet).
 
-Таблица 1 - Основные типы данных  Pandas, Python и NumPy.
+Таблица 1 — Основные типы данных  Pandas, Python и NumPy.
 
 Pandas dtype mapping
 
