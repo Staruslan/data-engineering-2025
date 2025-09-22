@@ -40,10 +40,10 @@ ____
 
 Таблица 1 — Основные типы данных  Pandas, Python и NumPy.
 
-Pandas dtype mapping
+Pandas dtype mapping 
 
 | Pandas dtype | Python type	   |NumPy type	 |     Usage       |
-| :---         |     :---:      |          ---: |         ---: |
+| :---         |     :---:      |          :--- |         :--- |
 | object   |str or mixed     | string_, unicode_, mixed types    |Text or mixed numeric and non-numeric values              |
 | int64     | int       |int_, int8, int16, int32, int64, uint8, uint16, uint32, uint64      |Integer numbers              |
 | float64     | float       | float_, float16, float32, float64      |	Floating point numbers              |
