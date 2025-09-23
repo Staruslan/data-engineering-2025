@@ -18,7 +18,17 @@
 :white_check_mark: **ДЗ № 2**
 
 - Скрипт [data_loader.py](https://github.com/Staruslan/data-engineering-2025/blob/main/data_loader.py) на Python для чтения датасета.
-Данный скрипт работает в связке [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)+[poetry](https://python-poetry.org/docs/basic-usage/). 
+Данный скрипт работает в связке [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)+[poetry](https://python-poetry.org/docs/basic-usage/).
+
+1. conda create -n my_env python=3.13 pip
+2. conda activate my_env
+
+3. pip install poetry
+4. poetry new my_project
+
+5. cd my_project
+6. poetry add jupyterlab pandas matplotlib wget
+7. poetry install —no-root
 
 
 - Вывод файла зависимостей [pyproject.toml](https://github.com/Staruslan/data-engineering-2025/blob/main/pyproject.toml);
