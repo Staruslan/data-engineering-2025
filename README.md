@@ -33,6 +33,11 @@
 
 - Вывод первых 10 строк из наших данных на рис.2.
 
+<img width="1915" height="660" alt="image" src="https://github.com/user-attachments/assets/f4fde124-de16-4bb8-b0a7-c7feaafd040c" />
+
+Рисунок 2 - Вывод зависимостей
+ ____
+
 - Приведение типов. В таблице 1 приведены основные типы.
   
 - Сохранить датасет в формате (Parquet).
@@ -50,6 +55,8 @@ Pandas dtype mapping
 | datetime64     | NA       | datetime64[ns]      |Date and time values              |
 | timedelta[ns]     | NA       | NA      |Differences between two datetimes              |
 | category     | NA       | NA      |	Finite list of text values              |
+
+
 
 
  **Apache Parquet** — формат хранения данных с открытым исходным кодом, ориентированный на столбцы. В отличие от строковых форматов (например, CSV или JSON), где данные хранятся построчно, Parquet организует их колонками.
