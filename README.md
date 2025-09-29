@@ -10,9 +10,7 @@
 
   - Ссылка на датасет: https://drive.google.com/drive/folders/17CqpL_vUcgqztIK5kGpLKhGqC8Ex8KJ-?usp=drive_link
     
-<img width="329" height="430" alt="image" src="https://github.com/user-attachments/assets/1f542dbc-c7a1-47f5-954d-73e61a89efba" />
-   
-Рисунок 1 — Лабораторная мышь при проведении теста
+
  ____
 
 
