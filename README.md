@@ -13,6 +13,10 @@
 - Скрипт [data_loader.py](https://github.com/Staruslan/data-engineering-2025/blob/main/data_loader.py) на Python для чтения датасета.
 Данный скрипт работает в связке [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)+[poetry](https://python-poetry.org/docs/basic-usage/).
 
+<img width="325" height="441" alt="image" src="https://github.com/user-attachments/assets/00d1d28e-0823-4e8e-9826-6977b9f85db0" />
+
+Рисунок 1 - Лабораторная мышь при проведении теста
+
 
 1. conda create -n my_env python=3.13 pip
 2. conda activate my_env
