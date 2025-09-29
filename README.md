@@ -60,6 +60,9 @@ Pandas dtype mapping
 
  Вывод данных на рис.3. Сохраяем наш датасет в формате [Parquet](https://github.com/Staruslan/data-engineering-2025/blob/main/raw_data.parquet)
  
+ <img width="787" height="567" alt="image" src="https://github.com/user-attachments/assets/23f5290a-b15e-4f4a-be29-9737d2018341" />
+ 
+Рисунок 3 - Вывод данных
 ____
 
 
