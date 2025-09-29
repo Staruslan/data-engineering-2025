@@ -56,6 +56,8 @@ Pandas dtype mapping
 | timedelta[ns]     | NA       | NA      |Differences between two datetimes              |
 | category     | NA       | NA      |	Finite list of text values              |
 
+Вывод на рис.3
+
 
 
 
