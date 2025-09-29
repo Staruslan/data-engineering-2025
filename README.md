@@ -58,7 +58,8 @@ Pandas dtype mapping
 
  **Apache Parquet** — формат хранения данных с открытым исходным кодом, ориентированный на столбцы. В отличие от строковых форматов (например, CSV или JSON), где данные хранятся построчно, Parquet организует их колонками.
 
- Вывод данных на рис.3. Сохраяем наш датасет в формате [Parquet]((https://github.com/Staruslan/data-engineering-2025/blob/main/raw_data.parquet))
+ Вывод данных на рис.3. Сохраяем наш датасет в формате [Parquet](https://github.com/Staruslan/data-engineering-2025/blob/main/raw_data.parquet)
+ 
 ____
 
 
