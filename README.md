@@ -63,7 +63,7 @@ Pandas dtype mapping
  <img width="787" height="567" alt="image" src="https://github.com/user-attachments/assets/23f5290a-b15e-4f4a-be29-9737d2018341" />
  
 Рисунок 3 - Вывод данных
-____
+
 # EDA для DE
 EDA - разведочный анализ данных
 
