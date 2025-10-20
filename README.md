@@ -104,6 +104,7 @@ EDA - это процесс изучения данных с
 
 <img width="907" height="763" alt="image" src="https://github.com/user-attachments/assets/b515969a-048a-4a53-b97a-80a5bd56e638" />
 
+# Работа с SQL
 
 
 
