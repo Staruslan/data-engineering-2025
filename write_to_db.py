@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, text, Column, String, Integer, inspect
+from sqlalchemy import create_engine, text, Column, inspect
 import pandas as pd
 import os
 from dotenv import load_dotenv
