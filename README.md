@@ -104,7 +104,16 @@ EDA - это процесс изучения данных с
 
 <img width="907" height="763" alt="image" src="https://github.com/user-attachments/assets/b515969a-048a-4a53-b97a-80a5bd56e638" />
 
-# Работа с SQL
+# Работа с базой данных
+
+**База данных** — это организованная совокупность данных, хранимая вместе со структурой (связи,
+ограничения, правила целостности и проч.), обеспечивающее эффективный доступ, изменение и
+управление этими данными.
+
+<img width="662" height="312" alt="image" src="https://github.com/user-attachments/assets/80ac76ae-ceb3-421a-96a3-5ab71e855463" />
+<img width="550" height="255" alt="image" src="https://github.com/user-attachments/assets/9ea5072d-893d-4801-bb85-622f31b908e1" />
+
+
 
 
 
