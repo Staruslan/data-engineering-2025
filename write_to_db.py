@@ -17,7 +17,7 @@ table_name = "komarov"
 script_path = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(script_path, "data", "output.fille.parquet")
 df = pd.read_parquet(data_path)
-df = df.head(50)
+df = df.head(100)
 
 # Подключаемся к homeworks
 engine = create_engine(
