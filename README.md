@@ -44,7 +44,7 @@
 
 Таблица 1 — Основные типы данных  Pandas, Python и NumPy.
 
-Pandas dtype mapping 
+**Pandas dtype mapping**
 
 | Pandas dtype | Python type	   |NumPy type	 |     Usage       |
 | :---         |     :---:      |          :--- |         :--- |
