@@ -117,7 +117,7 @@
 <img width="550" height="255" alt="image" src="https://github.com/user-attachments/assets/9ea5072d-893d-4801-bb85-622f31b908e1" />
 
 Успешный вывод данных
-
+<img width="1030" height="87" alt="image" src="https://github.com/user-attachments/assets/e5f5334f-3202-453b-b1b9-a5cf9ba3b306" />
 <img width="544" height="537" alt="image" src="https://github.com/user-attachments/assets/bdb4c57a-5e76-43a5-98ef-9c34cf0dd5c6" />
 
 В этой части проекта требовалось найти таблицу доступа в базе данных формата SQLite (.db). После этого, используя полученные учетные данные, осуществлялось подключение к удаленной базе данных PostgreSQL, как описано в файле [write_to_db.py](write_to_db.py). Затем в удаленную базу загружались 100 строк выбранного в проекте набора данных.
