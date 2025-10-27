@@ -14,8 +14,8 @@ db_name = "homeworks"
 table_name = "komarov"
 
 # Загружаем данные
-script_path = os.path.dirname(os.path.abspath(__file__))
-data_path = os.path.join(script_path, "data", "output.fille.parquet")
+script_path = os.path.dirname(os.path.abspath(file))
+data_path = os.path.join(script_path, "data", "raw_data.parquet")
 df = pd.read_parquet(data_path)
 df = df.head(100)
 
@@ -47,4 +47,3 @@ columns = inspector.get_columns("komarov", schema="public")
 
 print("\nСтруктура таблицы:")
 print({col["name"]: col["type"] for col in columns})
-
