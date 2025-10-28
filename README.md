@@ -21,8 +21,10 @@
 Рисунок 1 - Лабораторная мышь при проведении теста
 </p>
 
-Скрипт [data_loader.py](https://github.com/Staruslan/data-engineering-2025/blob/main/data_loader.py) на Python для чтения датасета.
+
+- Скрипт [data_loader.py](https://github.com/Staruslan/data-engineering-2025/blob/main/data_loader.py) на Python для чтения датасета.
 Данный скрипт работает в связке [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)+[poetry](https://python-poetry.org/docs/basic-usage/).
+
 
 1. Создание и активация окружения conda
 ```
@@ -57,8 +59,6 @@
 <p align="center">
 Рисунок 2 - Вывод зависимостей
 </p>
-
- ____
 
 - Приведение типов. В таблице 1 приведены основные типы.
   
@@ -109,11 +109,15 @@
 3. Duplication Rate – уровень дубликатов;
 4. Accuracy – точность данных.
 
-**Оценка качества данных** 
+Оценка качества данных приведена на рис.4 
 
+ <p align="center">
 <img width="1720" height="745" alt="image" src="https://github.com/user-attachments/assets/6c48f67f-4f53-4643-8cca-29c42e23d858" />
-
 <img width="907" height="763" alt="image" src="https://github.com/user-attachments/assets/b515969a-048a-4a53-b97a-80a5bd56e638" />
+</p>
+<p align="center">
+Рисунок 4 - Качество данных
+</p>
 
 # Подключение к БД и считывание из нее учетных данных для подключения к БД PostgreSQL
 
