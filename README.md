@@ -52,9 +52,13 @@
 
 - Вывод первых 10 строк из наших данных на рис.2.
 
+<p align="center">
 <img width="1915" height="660" alt="image" src="https://github.com/user-attachments/assets/f4fde124-de16-4bb8-b0a7-c7feaafd040c" />
-
+</p>
+<p align="center">
 Рисунок 2 - Вывод зависимостей
+</p>
+
  ____
 
 - Приведение типов. В таблице 1 приведены основные типы.
