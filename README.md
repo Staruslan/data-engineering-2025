@@ -37,7 +37,7 @@
 6. poetry add jupyterlab pandas matplotlib wget
 ```
 ```
-7. poetry install —no-roo
+7. poetry install —no-root
 ```
 
 
@@ -118,7 +118,7 @@
 
 <img width="907" height="763" alt="image" src="https://github.com/user-attachments/assets/b515969a-048a-4a53-b97a-80a5bd56e638" />
 
-# Работа с базой данных
+# Подключение к БД и считывание из нее учетных данных для подключения к БД PostgreSQL
 
 > [!NOTE]
 > **База данных** — это организованная совокупность данных, хранимая вместе со структурой (связи,
