@@ -149,6 +149,6 @@
  
 Полная версия EDA с рабочими графиками plotly представлено в файле [html](https://github.com/Staruslan/data-engineering-2025/blob/main/data_quality_dashboard.html).
 
-
+# Собираем ETL
 
 
