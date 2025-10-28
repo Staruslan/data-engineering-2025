@@ -139,7 +139,7 @@
 <img width="544" height="537" alt="image" src="https://github.com/user-attachments/assets/bdb4c57a-5e76-43a5-98ef-9c34cf0dd5c6" />
 </p>
 <p align="center">
-Рисунок 4 -Вывод данных
+Рисунок 5 -Вывод данных
 </p>
 
 
