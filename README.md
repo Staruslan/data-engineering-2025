@@ -129,7 +129,7 @@
 >
 > Целевая аудитория моего проекта —  специалисты, занимающиеся изучением поведения лабораторныхкрыс и мониторингом их передвижения в рамках научных исследований в области медицины, которые смогут использовать эти данные для реконструкции траекторий движения.
 
-Вывод данных [visual_EDA.ipyinb](https://github.com/Staruslan/data-engineering-2025/blob/main/visual_EDA.ipynb).
+Вывод данных [visual.ipyinb](https://github.com/Staruslan/data-engineering-2025/blob/main/visual.ipynb).
 
 
 
