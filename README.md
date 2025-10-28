@@ -134,8 +134,8 @@
 Поэтому в файле jupyter notebook были добавлены дополнительные динамические графики и подпункты анализа.
 
  Библиотека plotly имеет в себе элементы JavaScript, то Github не пропускает и не отображает корректно графики. Сделано это в целях безопасности.
-
-Вывод данных [html](https://github.com/Staruslan/data-engineering-2025/blob/main/data_quality_dashboard.html).
+ 
+Полная версия EDA с рабочими графиками plotly представлено в файле [html](https://github.com/Staruslan/data-engineering-2025/blob/main/data_quality_dashboard.html).
 
 
 
