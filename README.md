@@ -18,28 +18,28 @@
 
 Рисунок 1 - Лабораторная мышь при проведении теста
 
+1. Создание и активация окружения conda
 ```
-1. conda create -n my_env python=3.13 pip
-```
-```
-2. conda activate my_env
+ conda create -n my_env python=3.13 pip
 ```
 ```
-3. pip install poetry
+ conda activate my_env
+```
+2. Установка Poetry
+```
+ pip install poetry
+```
+3. Создание нового проекта с Poetry
+```
+ poetry new my_project
 ```
 ```
-4. poetry new my_project
+ cd my_project
 ```
+4. Добавление зависимостей
 ```
-5. cd my_project
+ poetry add jupyterlab pandas matplotlib wget
 ```
-```
-6. poetry add jupyterlab pandas matplotlib wget
-```
-```
-7. poetry install —no-root
-```
-
 
 - Вывод файла зависимостей [pyproject.toml](https://github.com/Staruslan/data-engineering-2025/blob/main/pyproject.toml);
 
