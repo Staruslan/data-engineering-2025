@@ -14,16 +14,15 @@
 - Данные для исследования, запись передвижения биологического объекта (лабораторная мышь) приведена на рис.1.
 
 - Ссылка на датасет: https://drive.google.com/drive/folders/17CqpL_vUcgqztIK5kGpLKhGqC8Ex8KJ-?usp=drive_link
-    
-- Скрипт [data_loader.py](https://github.com/Staruslan/data-engineering-2025/blob/main/data_loader.py) на Python для чтения датасета.
-Данный скрипт работает в связке [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)+[poetry](https://python-poetry.org/docs/basic-usage/).
-
+  
 <p align="center"><img width="325" height="441" alt="image" src="https://github.com/user-attachments/assets/00d1d28e-0823-4e8e-9826-6977b9f85db0" /></p>
 
 <p align="center">
 Рисунок 1 - Лабораторная мышь при проведении теста
 </p>
 
+Скрипт [data_loader.py](https://github.com/Staruslan/data-engineering-2025/blob/main/data_loader.py) на Python для чтения датасета.
+Данный скрипт работает в связке [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)+[poetry](https://python-poetry.org/docs/basic-usage/).
 
 1. Создание и активация окружения conda
 ```
@@ -83,9 +82,12 @@
 
  Вывод данных на рис.3. Сохраяем наш датасет в формате [Parquet](https://github.com/Staruslan/data-engineering-2025/blob/main/raw_data.parquet)
  
+ <p align="center">
  <img width="787" height="567" alt="image" src="https://github.com/user-attachments/assets/23f5290a-b15e-4f4a-be29-9737d2018341" />
- 
+</p>
+<p align="center">
 Рисунок 3 - Вывод данных
+</p>
 
 # EDA для DE
 
@@ -107,22 +109,6 @@
 3. Duplication Rate – уровень дубликатов;
 4. Accuracy – точность данных.
 
-**1. Completeness (Полнота данных):** 
-
-Эта метрика показывает, какая доля данных не содержит пропущенных значений. Значение близкое к 100% указывает на высокую полноту данных.
-
-**2. Uniqueness (Уникальность записей):**
-
-Эта метрика измеряет долю уникальных записей в наборе данных. Высокое значение говорит о том, что данные не содержат много дубликатов.
-
-**3. Duplication Rate (Уровень дубликатов):** 
-
-Это обратная метрика к уникальности и показывает долю дубликатов в наборе данных.
-
-**4. Accuracy (Точность данных):** 
-
-Эта метрика требует понимания того, какие значения в ваших данных считаются правильными или допустимыми. Это может потребовать дополнительного анализа и определения правил для оценки точности.
-
 **Оценка качества данных** 
 
 <img width="1720" height="745" alt="image" src="https://github.com/user-attachments/assets/6c48f67f-4f53-4643-8cca-29c42e23d858" />
@@ -136,8 +122,11 @@
 ограничения, правила целостности и проч.), обеспечивающее эффективный доступ, изменение и
 управление этими данными.
 
+<p align="center">
 <img width="662" height="312" alt="image" src="https://github.com/user-attachments/assets/80ac76ae-ceb3-421a-96a3-5ab71e855463" />
 <img width="550" height="255" alt="image" src="https://github.com/user-attachments/assets/9ea5072d-893d-4801-bb85-622f31b908e1" />
+
+</p>
 
 Успешный вывод данных
 <img width="1030" height="87" alt="image" src="https://github.com/user-attachments/assets/e5f5334f-3202-453b-b1b9-a5cf9ba3b306" />
