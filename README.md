@@ -135,7 +135,7 @@
 
  Библиотека plotly имеет в себе элементы JavaScript, то Github не пропускает и не отображает корректно графики. Сделано это в целях безопасности.
 
-Вывод данных [visual.ipyinb](https://github.com/Staruslan/data-engineering-2025/blob/main/visual.ipynb).
+Вывод данных [html](https://github.com/Staruslan/data-engineering-2025/blob/main/data_quality_dashboard.html).
 
 
 
