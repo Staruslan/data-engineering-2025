@@ -158,7 +158,7 @@
 
  Библиотека plotly имеет в себе элементы JavaScript, то Github не пропускает и не отображает корректно графики. Сделано это в целях безопасности.
  
-Полная версия EDA с рабочими графиками plotly представлено в файле [html](https://github.com/Staruslan/data-engineering-2025/blob/main/data_quality_dashboard.html).
+Полная версия EDA с рабочими графиками _plotly_ представлено в файле [html](https://github.com/Staruslan/data-engineering-2025/blob/main/data_quality_dashboard.html).
 
 # Собираем ETL
 
