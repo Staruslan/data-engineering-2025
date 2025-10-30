@@ -38,4 +38,4 @@ def transform(df: pd.DataFrame) -> pd.DataFrame:
     print("Null values in each column:")
     print(null_counts[null_counts > 0] if null_counts.sum() > 0 else "No nulls found")
 
-    df.to_csv("data/transform/transform_data.csv")
+    df.to_parquet("data/transform/transform_data.parquet")
