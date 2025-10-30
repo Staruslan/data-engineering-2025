@@ -14,4 +14,6 @@
 1. Убедитесь, что файлы .env с переменными подключения к БД находятся в корне проекта
 2. Установите зависимости:
 
+```
 pip install pandas sqlalchemy psycopg2-binary python-dotenv requests pyarrow
+```
