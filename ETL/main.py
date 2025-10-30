@@ -28,4 +28,4 @@ def main():
         print("Invalid choice. Please put --help as first argument.")
 
 if __name__ == "__main__":
-    main()
+   help()
