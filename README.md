@@ -175,11 +175,11 @@ laboratory rat-DE_project/
 |
 |   ├──etl/
 │      ├── __init__.py
-│      ├── extract.py     # Extract from GDrive, download data from .csv file
-│      ├── load.py        # Saved data in .parquet, read data from .parquet and download data in  
-│      |                   PostgreSQL
-│      ├── main.py        # The entry point to the ETL process
-|      └──transform.py   # Cleaning data and conversation types
+│      ├── extract.py     # загрузка и валидация исходных данных, сохранение в CSV
+│      ├── load.py        # выгрузка в базу данных и сохранение в Parquet 
+│      |                   
+│      ├── main.py        # основной модуль
+|      └──transform.py   # трансформации данных (приведение типов)
 
 ```
 
