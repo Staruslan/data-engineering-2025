@@ -163,4 +163,19 @@
 # Собираем ETL
 
 > [!NOTE]
-> ETL (Extract, Transform, Load) — процесс, с помощью которого данные из разных источников приводят к единому виду и собирают в одном месте. 
+> ETL (Extract, Transform, Load) — процесс, с помощью которого данные из разных источников приводят к единому виду и собирают в одном месте.
+
+
+```
+
+laboratory rat-DE_project/
+|
+|   ├──etl/
+│      ├── __init__.py
+│      ├── extract.py     # Extract from GDrive, download data from .xlsx file
+│      ├── load.py        # Saved data in .parquet, read data from .parquet and download data in  
+│      |                   PostgreSQL
+│      ├── main.py        # The entry point to the ETL process
+|      └──transform.py   # Cleaning data and conversation types
+
+```
