@@ -1,8 +1,5 @@
 import pandas as pd
 
-
-def transform(df: pd.DataFrame) -> pd.DataFrame:
-    """Apply types and check for null values."""
     types_dict = {
         "bodyparts": "int64",
         "snout_x": "float64",
@@ -27,6 +24,10 @@ def transform(df: pd.DataFrame) -> pd.DataFrame:
         "tail_y": "float64",
         "likelihood.6": "float64",
     }
+
+def transform(df: pd.DataFrame) -> pd.DataFrame:
+    """Apply types and check for null values."""
+
 
     for col, dtype in types_dict.items():
         if col in df.columns:
