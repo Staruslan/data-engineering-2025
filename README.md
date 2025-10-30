@@ -208,24 +208,20 @@ laboratory rat-DE_project/
 Чтобы запустить полный ETL-процесс, нужно выполнить следующие шаги: сначала настроить окружение, а затем запустить сам скрипт пайплайна.
 
 ```
- 1. Клонируйте репозиторий
-git clone git@github.com:Konstantaza/Data-management-Engineering.git
-cd Data-management-Engineering
-
- 2. Создайте окружение conda 
+ 1. Создайте окружение conda 
 conda create -n my_env python=3.13 pip
 
- 3. Активируйте окружение
+ 2. Активируйте окружение
 conda activate my_env
 
- 4. Установите Poetry
+ 3. Установите Poetry
 pip install poetry
 
- 5. Перейдите в папку проекта и установите все зависимости
+ 4. Перейдите в папку проекта и установите все зависимости
 cd my_project
 poetry install
 
- 6. Запустите пайплайн
+5. Запустите пайплайн
 poetry run python ../etl/main.py --step all
 ```
 
