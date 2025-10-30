@@ -167,15 +167,22 @@
 
 
 ```
+Пакет etl представляет собой конвейер для извлечения, трансформации и загрузки набора данных о передвижении лабораторной мыши .
+
+Структура пакета etl/
 
 laboratory rat-DE_project/
 |
 |   ├──etl/
 │      ├── __init__.py
-│      ├── extract.py     # Extract from GDrive, download data from .xlsx file
+│      ├── extract.py     # Extract from GDrive, download data from .csv file
 │      ├── load.py        # Saved data in .parquet, read data from .parquet and download data in  
 │      |                   PostgreSQL
 │      ├── main.py        # The entry point to the ETL process
 |      └──transform.py   # Cleaning data and conversation types
 
 ```
+
+
+
+
