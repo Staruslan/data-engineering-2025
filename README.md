@@ -222,6 +222,6 @@ cd my_project
 poetry install
 
 5. Запустите пайплайн
-poetry run python ../etl/main.py --step all
+poetry run python ../etl/main.py --help
 ```
 
