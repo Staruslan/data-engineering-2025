@@ -1,0 +1,11 @@
+python>=3.3
+pandas
+numpy
+jupyter
+gdown
+pyarrow
+matplotlib
+sqlalchemy
+psycopg2
+seaborn
+plotly
