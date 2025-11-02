@@ -25,9 +25,9 @@ types_dict = {
     "likelihood.6": "float64",
 }
 
+
 def transform(df: pd.DataFrame) -> pd.DataFrame:
     """Apply types and check for null values."""
-
 
     for col, dtype in types_dict.items():
         if col in df.columns:
@@ -40,4 +40,5 @@ def transform(df: pd.DataFrame) -> pd.DataFrame:
     print(null_counts[null_counts > 0] if null_counts.sum() > 0 else "No nulls found")
 
     df.to_parquet("data/transform/transform_data.parquet")
+
     return df
